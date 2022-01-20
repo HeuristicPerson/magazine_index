@@ -1,0 +1,143 @@
+title: Todo Modelismo
+issue: 036
+country: es
+tags: common / scale_kits
+price: 700 ptas
+date: 1995-07
+language: es-es
+items:
+  - title: Portada
+    page: -1
+    type: cov
+
+  - title: Taker
+    page: 0
+    type: adv
+  
+  - title: Índice
+    page: 1
+    type: ind
+
+  - title: La estrella de África - 2a parte
+    page: 2-10
+    type: how_bld / how_pnt
+    author: Aurelio Gimeno Ruiz 
+    genre: arm / air / dio
+    brand: Hasegawa / Verlinden Productions / Puchala / Italeri / ???
+
+  - title: Publicidad - Revell
+    page: 11
+    type: adv
+
+  - title: Crimea, diciembre 1854
+    page: 12-13
+    type: how_pnt
+    genre: fig
+    scale: 70mm
+    brand: Mike French Models
+    author: Miguel Felipe Carrascal
+
+  - title: Matra-Simca 670/670B
+    page: 14-17
+    author: Luis Amarillas Serrano
+    type: how_bld / how_pnt
+    genre: civ
+    scale: 1/43
+    brand: Provence Moulage / Starter
+
+  - title: Resultados concurso "Gladius '95"
+    page: 18
+    type: new
+
+  - title: La división del Norte (1807-1808) - 1a parte
+    page: 19-20
+    type: inf
+    author: Antonio Treviño de Heredia / Ángel L. González Romero
+    
+  - title: Editorial
+    page: 21
+    type: edi
+
+  - title: Publicidad - Lojume
+    page: 22
+    type: adv
+
+  - title: Publicidad - Papeleria Fina, Model-Kit, Hobbymania, Jordi Rubio
+    page: 23
+    type: adv
+
+  - title: Publicidad - El taller del hobby, Fotograbados Todo Modelismo
+    page: 24
+    type: adv
+
+  - title: Novedades y noticias - Thunderbolt, IV Concurso de maquetismo "Hobby '82", Details Master, Coleccionismo de soldaditos
+    page: 24
+    type: new
+
+  - title: Publicidad - Modelismo & Historia, Ricard s.a., Fórmula Kit, Nimix
+    page: 25
+    type: adv
+
+  - title: Novedades y noticias - Pegaso Models, Avions, Fort Duquesne Miniatures, Poste Militaire, IPMS Mar del Plata-Argentina, Edicions L'Aeroteca, Precision Models, Soldiers
+    page: 26
+    type: adv
+
+  - title: Publicidad - Bazar Matey
+    page: 27
+    type: adv
+
+  - title: Novedades y noticias - Libros, Miniaturas Andrea, F.M. Beneito, Miniaturas Alemany, Warriors, Grendel, Revell, Asociación Cultural Española de Miniaturistas
+    page: 28
+    type: new / adv
+
+  - title: La división del Norte (1807-1808) - 2a parte
+    page: 29-30
+    type: inf
+
+  - title: Técnicas de modelismo fantástico
+    page: 31
+    type: adv
+
+  - title: Tractor Ford 3 Ton.
+    page: 32-38
+    type: how_bld / how_pnt
+    genre: arm
+    scale: 1/24
+    author: José Borrachero Sánchez / Javier Sanz
+    brand: Monogram
+
+  - title: Gun, el mundo del arma ligera
+    page: 39
+    type: adv
+
+  - title: La muerte de Arturo
+    page: 40-41
+    type: how_bld / how_pnt
+    genre: dio / fig
+    author: Faustino Fernández Vélez
+    brand: Myth and Magic
+
+  - title: Savoia Marchetti SM-79
+    page: 42-43
+    type: how_bld / how_pnt
+    brand: Airfix
+    author: Alfonso Martínez Berlana
+    scale: 1/72
+
+  - title: Reportaje gráfico - Tipo 97 CHI-HA    
+    page: 44-47
+    type: inf / prf
+    author: Octavio Díez Cámara
+    genre: arm
+
+  - title: Próximo número
+    page: 48
+    type: adv
+
+  - title: Monográficos "Todo Modelismo"
+    page: 49
+    type: adv
+
+  - title: Subscripción
+    page: 50
+    type: adv
