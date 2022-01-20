@@ -1,0 +1,124 @@
+title: Euro Modelismo
+issue: 091
+country: es
+tags: common / scale_kits
+price: 850 ptas / 5.1 euros
+date: 1999-02
+language: es-es
+items:
+  - title: cover
+    page: -1
+    type: cov
+
+  - title: Publicidad - Juguetes 113
+    page: 0
+    type: adv
+
+  - title: Indice
+    page: 1
+    type: ind
+
+  - title: Bf.109 G-6 "Barkhorn"
+    page: 2-9
+    genre: air
+    type: how_bld / how_pnt
+    brand: Revell / Eduard
+    scale: 1/72
+    author: Eduardo Ramos del Pino / Diego López Álvarez
+
+  - title: Lotus 79
+    page: 10
+    genre: civ
+    type: how_bld / how_pnt
+    scale: 1/43
+    brand: Tameo
+    author: Joaquín Rebollo Ruano
+
+  - title: Publicidad - Casa Galán
+    page: 11
+    type: adv
+
+  - title: Jagdpanzer IV - Versión inicial con cañón L48 - 1a parte
+    page: 12-17
+    author: Enrique Vega
+    genre: arm
+    type: how_bld / how_pnt
+    brand: Dragon
+
+  - title: Carro de batalla AAT
+    page: 18-28
+    author: Julio C. Cabos Gómez
+    brand: AMT/ERTL
+    genre: pha / arm
+    scale: 1/32
+    type: how_bld / how_pnt
+
+  - title: Publicidad - Soldat, AMT/ERTL
+    page: 29
+    type: adv
+
+  - title: Reportaje Gráfico - Dodge WC54
+    page: 30-32
+    author: Euro Modelismo Staff
+    genre: arm
+    type: pro
+
+  - title: Publicidad - El Sindicat del Joc, J.J. Hobbies, Model Kit, Jordi Rubio
+    page: 33
+    type: adv
+
+  - title: La Casa de Campo, 1936
+    page: 34-36
+    author: Francisco J. Hernández Sánchez / Javier Castro Cobo
+    genre: arm / dio
+    scale: 1/35
+    brand: RPM / Alhambra Models
+    type: how_bld / how_pnt
+
+  - title: Publicidad - Todo Modelismo, Ludo-Hobbies, Lojumé
+    page: 37
+    type: adv
+
+  - title: Los venículos militares en Euro Militaire '99
+    page: 38-43
+    author: Guillermo Coll Llopis / Rodrigo Hernández
+    genre: arm
+    type: inf / new
+
+  - title: Publicidad - Manual 2000
+    page: 44-45
+    type: adv
+
+  - title: "La USAAF sobre Europa - 2a parte: 4 Fighter Group"
+    page: 46-52
+    author: Eduardo Cea Ovejero
+    genre: air
+    type: inf
+
+  - title: Publicidad - Soldat, Armour Collection
+    pages: 53
+    type: adv
+
+  - title: "Concursos - VII Concurso-Exposición \"Fuengirola: Un sol de ciudad\" - Concurso \"AMT 2000\" (Asociación Modelista Torrent) - Panzernet 1999"
+    page: 54
+    type: new
+
+  - title: Novedades - MPM, Verlinden Productions, Libros Cúpula
+    page: 54
+    type: new / adv
+
+  - title: Novedades - Zlinek, Verlinden Productions, JMC Libros, Achtung Panzer, Flashback, Reserva Anticipada Ediciones
+    page: 55
+    type: new / adv
+
+  - title: Próximo número Marzo 2000
+    page: 56
+    type: adv
+
+  - title: Publicidad - Jordi Rubio
+    page: 57
+    type: adv
+
+  - title: Publicidad - Revell, Binney & Smith, El Corte Inglés
+    pages: 58
+    type: adv

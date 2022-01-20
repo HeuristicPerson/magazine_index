@@ -1,0 +1,174 @@
+title: Todo Modelismo
+issue: 027
+country: es
+tags: common / scale_kits
+price: 700 ptas
+date: 1994-10
+language: es-es
+items:
+  - title: Portada
+    page: -1
+    type: cov
+
+  - title: Humbrol
+    type: adv
+    page: 0
+
+  - title: index
+    page: 1
+
+  - title: PANZER IV Ausf.G
+    page: 2-8
+    author: Rodrigo Hernández Cabos
+    brand: Italeri
+    scale: 1/35
+    genre: arm
+
+  - title: Casa Galán, s.a.
+    page: 9
+    type: adv
+
+  - title: Sorpresa Fatal
+    page: 10-12
+    type: how_bld / how_pnt
+    author: Mario Milla Galán
+    genre: dio
+
+  - title: Cabina portátil para pintar, Chaves
+    type: adv
+    page: 13
+
+  - title: Junkers JU.88A-4
+    page: 14-16
+    scale: 1/72
+    brand: Italeri
+    author: Alfonso Martínez Berlana
+    genre: air
+
+  - title: J.Escarre
+    type: adv
+    page: 17
+
+  - title: Mazda Cosmo Sport
+    page: 18-20
+    author: Julio C. Cabos Gómez
+    brand: Hasegawa
+    scale: 1/24
+    genre: civ
+
+  - title: Hobby Craft
+    page: 21
+    type: adv
+
+  - title: Gun, el mundo del arma ligera
+    page: 22
+    type: adv
+
+  - title: Uniformología - Rocroi 1643
+    author: Antonio Treviño de Heredia / Ángel L. González Roero
+    page: 23-24
+
+  - title: Editorial - EuroMilitaire 94, consolidación de pintores españoles
+    type: edi
+    page: 25
+
+  - title: Novedades y noticias - Modeltrans, Minireplicas, Miniaturas Andrea, Montvert Publications
+    type: new
+    page: 26
+
+  - title: Publicidad - Basar Valira, Proffessional Hobbies, Lojumé
+    type: adv
+    page: 27
+
+  - title: Novedades y noticias - Miniaturas Escuadrón, Friulmodellismo, Poste Militaire, Games Workshop
+    type: adv
+    page: 28
+
+  - title: Publicidad - Danilo / Modelismo & Radiocontrol / Nimix
+    type: adv
+    page: 29
+
+  - title: Novedades y noticias - Pendragon, II salon del modelismo maquetismo y radio control, Preiser, Squadron Signal, Ultimate Models
+    type: adv
+    page: 30
+
+  - title: Publicidad - Cota 90 / Model-Kit / Ricard S.A. / Maquetas Casa Giménez / King Hobby
+    type: adv
+    page: 31
+
+  - title: Novedades y noticias - III Concurso de maquetas @mini-mini '94
+    type: new
+    page: 32
+
+  - title: Publicidad - Fotograbados Todo Modelismo / Escala 3 / Soldado de Plomo
+    type: adv
+    page: 33
+
+  - title: Panzer IV 1G (último modelo)
+    page: 34-38
+    author: Sergio de Usera Mújica
+    scale: 1/35
+    brand: Italeri
+    genre: arm
+
+  - title: Novedades y Noticias - Junkers JU-87D/G Stuka, Military Modelling Masterclass, M-88A-1 Recovery Tank, III Concurso de modelismo estatico "Van-Dick Model", III Concurso-Exhibicion de Maquetas "Ciudad de La Laguna", Le Cimier, Fort Royal Review, Novedades Hasegawa, II Concurso-Exposicion "Cartas Bricolage-Hobby", I Concurso de modelismo y Fantasia "Moderama", II Concurso de maquetas "Puerto Model 94", III Concurso de maquetismo "Hobby 82"
+    page: 39-40
+    type: adv
+  - title: Uniformologia - Rocroi 1643
+    page: 41-42
+
+  - title: Juguetes 113
+    page: 43
+    type: adv
+
+  - title: Modelado de un troll
+    page: 44-48
+    author: Rafael Jímenez Rodríguez
+    genre: fig
+    type: how_bld
+
+  - title: Publicidad - Tara, Tapas Todo Modelismo
+    page: 49
+    type: adv
+
+  - title: SS-Division L.A.H.
+    page: 50-51
+    author: Ismael Rivas
+    brand: Miniaturas Andrea / Hornet
+    genre: fig
+    scale: 54mm
+
+  - title: Nakajima KI-44
+    page: 52-55
+    author: Aurelio Gimeno Ruiz
+    brand: Arii
+    genre: air
+    scale: 1/48
+
+  - title: La agencia Pinkerton (1850-1900)
+    page: 56-57
+    author: Mario Ocaña / Miguel Jiménez / Santiago Sánchez
+    brand: Miniaturas Escuadrón
+    genre: dio
+    type: how_bld / how_pnt
+
+  - title: Técnicas de modelismo ferroviario
+    page: 58-59
+    type: adv
+
+  - title: Whippet - El primer carro medio británico con torre
+    page: 60-63
+    author: Octavio Díez Camara
+    genre: arm
+
+  - title: Proximo Numero - Noviembre 1994
+    page: 64
+    type: adv
+
+  - title: Academy Minicraft
+    page: 65
+    type: adv
+
+  - title: Publicidad subscripción
+    page: 66
+    type: adv

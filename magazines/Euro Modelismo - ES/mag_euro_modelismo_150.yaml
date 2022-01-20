@@ -1,0 +1,113 @@
+title: Euro Modelismo
+issue: 150
+country: es
+tags: common / scale_kits
+price: 10 euros
+date: 2005-01
+language: es-es
+items:
+  - title: Portada
+    page: -1
+    type: cov
+
+  - title: Publicidad - Chaves
+    page: 0
+    type: adv
+
+  - title: Índice
+    page: 1
+    type: ind
+
+  - title: Ha llegado Santa Claus - Las Ardenas, 17 de diciembre de 1944
+    page: 2-28
+    author: Marijn Van Gils
+    type: how_bld / how_pnt
+    genre: arm / dio / fig
+    scale: 1/35
+    brand: Tamiya / Dragon / Hornet / Royal Model / Pegaso
+
+  - title: Publicidad - Soldat, Academy
+    page: 29
+    type: adv
+
+  - title: F-15 Strike Eagle - Irak 2003
+    page: 30-44
+    author: Francisco J. López de Anca García
+    type: how_bld / how_pnt
+    brand: Revell / Aires / Verlinden Productions
+    scale: 1/48
+
+  - title: Publicidad - Squadron
+    pages: 45
+    type: adv
+
+  - title: Publicidad - Mondial de la maquette et du modèle réduit
+    pages: 46
+    type: adv
+
+  - title: Índices generales de Euro Modelismo, no101 al no150)
+    pages: 47-51
+    type: inf
+
+  - title: Geisha Meiji - Figura
+    pages: 52-60
+    type: how_pnt
+    author: David Romero Utrero
+    brand: Pili Pili
+    scale: 120mm
+    genre: fig
+
+  - title: Publicidad - Soldat, Armour Collection
+    page: 61
+    type: adv
+
+  - title: Ferrari 156 Sharknose
+    page: 62-70
+    author: Juan de Dios Catena García
+    type: how_bld / how_pnt
+    scale: 1/20
+    brand: Model Factory Hiro
+    genre: civ
+
+  - title: Publicidad - Acción Press, A.S.C. Racing, Panzer Aces
+    page: 71
+    type: adv
+
+  - title: Henschel Typ 33 DI con remolque generador SD.AH.24
+    page: 72-80
+    type: how_bld / how_pnt
+    author: Jérôme Messonnier
+    scale: 1/35
+    brand: CMK / NKC
+    genre: arm
+
+  - title: "Publicidad - VIII Certamen Internacional de Modelismo Escala, XII Concurso-exhibición de modelismo \"un sol de ciudad\""
+    page: 81
+    type: new / adv
+
+  - title: Henscel Typ 33 DI
+    page: 82-89
+    type: prof / inf
+    author: Rodrigo Hernández Cabos / Pedro Andrada Jiménez
+
+  - title: Geisha Meiji - Ambientación de la figura
+    page: 90-94
+    author: David Romero Utrero
+    type: how_bld, how_pnt
+    genre: fig / dio
+
+  - title: Publicidad - Euro Modelismo
+    page: 95
+    type: adv
+
+  - title: Publicidad - Próximo número
+    page: 96
+    type: adv
+
+  - title: Publicidad - Acción Press
+    page: 97
+    type: adv
+
+  - title: Publicidad - Gasa Galán
+    page: 98
+    type: adv
