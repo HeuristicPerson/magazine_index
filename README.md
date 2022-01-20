@@ -110,6 +110,52 @@ description of some items in our sample magazine `.yaml` file.
 
 ## Tag definiton files
 
-**WIP**
+Tag definition files are also `.yaml` files that can contain one or several tag definitions and
+are linked from magazine `.yaml` files to indicate which tags are used in the description of
+magazine items.
+
+The format of tag definition files is as follows, we will use the `common.yaml` file with, you
+guessed it, common tag definitions that should be used by every magazine:
+
+	tags:
+	  - short_name: type
+	    full_name: Article type
+	    allowed: > 
+	      ??? - Unknown /
+	      cov - Cover /
+	      edi - Editorial /
+	      adv - Advertisement /
+	      his - Historical /
+	      how - How-to guide /
+	      hum - Humouristic or satire article /
+	      ind - Index /
+	      inf - Informative / 
+	      let - Reader letters and questions /
+	      pro - Profiles and interviews /
+	      new - News /
+	      opi - Opinions and reviews /
+	      pre - Previews
+
+	  - short_name: author
+	    full_name: Author
+	    allowed:
+
+  * `tags:` Nothing must be added here. It's just a container for all the tag definitions.
+    * `short_name:` Short name or code-name of the tag (one word, no spaces, lowercase).
+      This is the tag name we need to use in the definitions of our magazine items.
+    * `long_name:` Full name of the tag. It'll be used in the future by programs rendering the
+      magazine index files to `.html` or any other human-readable forma.
+    * `allowed:` List of allowed values for the tag. If empty, *any value can be used*. For
+      tags with a limited set of values accepted, it's recommended to define a lowercase,
+      short code (three letters is recommended but sometimes usint 3_3 —e.g. abc_def— is
+      also a good option for sub-tags) and a full name by using a dash surrounded by spaces.
+      As any other field in this project, the separation between multiple values must be done
+      with a slash surrounded by spaces ` / ` although we can ommit the latter space by
+      writing each tag definition in a new line as you see above. The starting `>` after the
+      starting `allowed:` text precisely indicates that all lines below should be treated as a
+      single one so the extra space after the ` /` will be automatically added when reading
+      the file.
+
+
 
 
