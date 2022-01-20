@@ -1,0 +1,81 @@
+tags:
+  # Scale (I need to decide what to do with named scales like the ones commonly used in railway kits). I think the
+  # approach should be using the equivalent numerical one as much as possible, avoiding the nicknames.
+  - short_name: scale
+    full_name: Scale
+    allowed: >
+      1/6 - 1:6 /
+      1/9 - 1:9 /
+      1/12 - 1:12 /
+      1/16 - 1:16 /
+      1/24 - 1:24 /
+      1/25 - 1:25 /
+      1/30 - 1:30 /
+      1/32 - 1:32 /
+      1/35 - 1:35 /
+      1/48 - 1:48 /
+      1/50 - 1:50 /
+      1/72 - 1:72 /
+      1/100 - 1:100 /
+      1/144 - 1:144 /
+      1/250 - 1:250 /
+      25mm - 25 mm /
+      54mm - 54 mm /
+      90mm - 90 mm /
+      ho - HO
+  # Adding new article types which are more specific than the generic ones for magazines
+  - short_name: type
+    full_name: Type
+    allowed: > 
+      how_bld - Building guide /
+      how_pnt - Painting guide
+  # Genres to differentiate between figures, tanks, airplanes and so on...
+  - short_name: genre
+    full_name: Genre
+    allowed: >
+      air - Aircraft /
+      arm - Armor vehicles /
+      civ - Civil Vehicles /
+      dio - Dioramas /
+      fig - Figures /
+      pha - Phantasy & Sci-Fi /
+      shp - Ships and boats
+
+  # Kit brands. This category is going to be huge, but I think it's better not to leave it open to avoid multiple
+  # combinations of the same brands over and over.
+  - short_name: brand
+    full_name: Brand
+    allowed: >
+      Airfix /
+      Alternity Miniatures /
+      AMT/ERTL /
+      Amusing Hobby /
+      Aoshima /
+      Arii /
+      Arma Hobby /
+      CMK /
+      Das Werk /
+      Dora Wings /
+      Dragon /
+      Eduard /
+      Escuadrón / 
+      Fine Molds /
+      Friulmodellismo / 
+      Games Workshop /
+      Hobbyboss /
+      Hornet /
+      Hasegawa /
+      IBG Models /
+      ICM /
+      Italeri /
+      Meng /
+      MiniArt /
+      Miniaturas Andrea /
+      Miniaturas Escuadrón /
+      Model Factory Hiro /
+      NKC /
+      Pili Pili /
+      Planet Models /
+      Revell /
+      Royal Model /
+      Tamiya

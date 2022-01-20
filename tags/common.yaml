@@ -1,0 +1,22 @@
+tags:
+  - short_name: type
+    full_name: Article type
+    allowed: > 
+      ??? - Unknown /
+      cov - Cover /
+      edi - Editorial /
+      adv - Advertisement /
+      his - Historical /
+      how - How-to guide /
+      hum - Humouristic or satire article /
+      ind - Index /
+      inf - Informative / 
+      let - Reader letters and questions /
+      pro - Profiles and interviews /
+      new - News /
+      opi - Opinions and reviews /
+      pre - Previews
+
+  - short_name: author
+    full_name: Author
+    allowed:
