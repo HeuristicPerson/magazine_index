@@ -24,7 +24,7 @@ items:
     type: how_bld / how_pnt
     genre: arm / dio / fig
     scale: 1/35
-    brand: Tamiya / Dragon / Hornet / Royal Model / Pegaso
+    brand: Tamiya / Dragon / Hornet / Royal Model / Pegaso Models
 
   - title: Publicidad - Soldat, Academy
     page: 29
@@ -87,7 +87,7 @@ items:
 
   - title: Henscel Typ 33 DI
     page: 82-89
-    type: prof / inf
+    type: pro / inf
     author: Rodrigo Hernández Cabos / Pedro Andrada Jiménez
 
   - title: Geisha Meiji - Ambientación de la figura

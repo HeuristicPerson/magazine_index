@@ -17,6 +17,7 @@ tags:
       1/43 - 1:43 /
       1/48 - 1:48 /
       1/50 - 1:50 /
+      1/54 - 1:54 /
       1/72 - 1:72 /
       1/100 - 1:100 /
       1/144 - 1:144 /
@@ -49,9 +50,11 @@ tags:
   # combinations of the same brands over and over.
   #  
   #   - Webpage with a great list of kit manufaturers: http://theminiaturespage.com/man/search.mv
+  #   - Scale kits database: https://www.scalemates.com/es/
   - short_name: brand
     full_name: Brand
     allowed: >
+      ??? /                        # To be used when the brand is unknown.
       A & A Models /
       Academy /
       Aeroplast /
@@ -59,6 +62,7 @@ tags:
       Aires /
       Airfix /
       Alhambra Models /
+      Alpine Miniatures /
       Alternity Miniatures /
       AMP /
       AMT/ERTL /
@@ -126,7 +130,9 @@ tags:
       Royal Model /
       RPM /
       RS Models /
+      Starter /
       Takom /
+      Tameo Kits /
       Tamiya /
       Tarangus /
       Tiger Model /
@@ -134,5 +140,6 @@ tags:
       Trumpeter /
       Ulrich Puchala /
       Verlinden Productions /
+      Young Miniatures /
       Zebrano Model /
       Zvezda

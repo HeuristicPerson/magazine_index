@@ -1,5 +1,5 @@
 title: Todo Modelismo
-issue: 036
+issue: 36
 country: es
 tags: common / scale_kits
 price: 700 ptas
@@ -23,7 +23,7 @@ items:
     type: how_bld / how_pnt
     author: Aurelio Gimeno Ruiz 
     genre: arm / air / dio
-    brand: Hasegawa / Verlinden Productions / Puchala / Italeri / ???
+    brand: Hasegawa / Verlinden Productions / Ulrich Puchala / Italeri / ???
 
   - title: Publicidad - Revell
     page: 11
@@ -126,7 +126,7 @@ items:
 
   - title: Reportaje gráfico - Tipo 97 CHI-HA    
     page: 44-47
-    type: inf / prf
+    type: inf / pro
     author: Octavio Díez Cámara
     genre: arm
 
