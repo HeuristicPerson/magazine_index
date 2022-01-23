@@ -96,7 +96,7 @@ items:
     type: inf
 
   - title: Publicidad - Soldat, Armour Collection
-    pages: 53
+    page: 53
     type: adv
 
   - title: "Concursos - VII Concurso-Exposición \"Fuengirola: Un sol de ciudad\" - Concurso \"AMT 2000\" (Asociación Modelista Torrent) - Panzernet 1999"
@@ -120,5 +120,5 @@ items:
     type: adv
 
   - title: Publicidad - Revell, Binney & Smith, El Corte Inglés
-    pages: 58
+    page: 58
     type: adv

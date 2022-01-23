@@ -13,6 +13,7 @@ tags:
       1/30 - 1:30 /
       1/32 - 1:32 /
       1/35 - 1:35 /
+      1/43 - 1:43 /
       1/48 - 1:48 /
       1/50 - 1:50 /
       1/72 - 1:72 /
@@ -22,6 +23,7 @@ tags:
       25mm - 25 mm /
       54mm - 54 mm /
       90mm - 90 mm /
+      120mm - 120 mm /
       ho - HO
   # Adding new article types which are more specific than the generic ones for magazines
   - short_name: type
@@ -46,6 +48,7 @@ tags:
   - short_name: brand
     full_name: Brand
     allowed: >
+      Aires /
       Airfix /
       Alternity Miniatures /
       AMT/ERTL /
@@ -68,6 +71,7 @@ tags:
       IBG Models /
       ICM /
       Italeri /
+      Kimera Models /
       Meng /
       MiniArt /
       Miniaturas Andrea /
@@ -77,7 +81,7 @@ tags:
       Pegaso Models /
       Pili Pili /
       Planet Models /
-      Poste Militaire /
       Revell /
       Royal Model /
-      Tamiya
+      Tamiya / 
+      Verlinden
