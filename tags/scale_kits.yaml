@@ -8,6 +8,7 @@ tags:
       1/9 - 1:9 /
       1/12 - 1:12 /
       1/16 - 1:16 /
+      1/20 - 1:20 /
       1/24 - 1:24 /
       1/25 - 1:25 /
       1/30 - 1:30 /
@@ -22,6 +23,7 @@ tags:
       1/250 - 1:250 /
       25mm - 25 mm /
       54mm - 54 mm /
+      70mm - 70 mm /
       90mm - 90 mm /
       120mm - 120 mm /
       ho - HO
@@ -45,6 +47,8 @@ tags:
 
   # Kit brands. This category is going to be huge, but I think it's better not to leave it open to avoid multiple
   # combinations of the same brands over and over.
+  #  
+  #   - Webpage with a great list of kit manufaturers: http://theminiaturespage.com/man/search.mv
   - short_name: brand
     full_name: Brand
     allowed: >
@@ -54,6 +58,7 @@ tags:
       AFV Club /
       Aires /
       Airfix /
+      Alhambra Models /
       Alternity Miniatures /
       AMP /
       AMT/ERTL /
@@ -97,6 +102,7 @@ tags:
       Master Box /
       Meng /
       Micro-Mir / 
+      Mike French Models /
       Military Wheels /
       MiniArt /
       Miniaturas Andrea /
@@ -105,12 +111,14 @@ tags:
       Model Factory Hiro /
       Modelsvit /
       Monogram /
+      Myth and Magic /
       NKC /
       Panda Models /
       Pegaso Models /
       Pili Pili /
       Poste Militaire /
       Planet Models /
+      Provence Moulage /
       Revell /
       Riich Models /
       Roden /
@@ -124,6 +132,7 @@ tags:
       Tiger Model /
       ToRo Model /
       Trumpeter /
-      Verlinden /
+      Ulrich Puchala /
+      Verlinden Productions /
       Zebrano Model /
       Zvezda
