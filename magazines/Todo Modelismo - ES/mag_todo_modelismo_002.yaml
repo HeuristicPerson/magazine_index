@@ -1,0 +1,130 @@
+title: Todo Modelismo
+issue: 2
+country: es
+tags: common / scale_kits
+price: 600 ptas
+date: 1992-08
+language: es-es
+items:
+  - title: Portada
+    page: -1
+    type: cov
+
+  - title: Publicidad - Model Reyna, Miniaturas Andrea
+    page: 0
+    type: adv
+
+  - title: Índice
+    page: 1
+    type: ind
+  
+  - title: Personalización del M-60
+    page: 2-5
+    type: how_bld / how_pnt
+    author: Luis Palencia
+    brand: Tamiya
+    genre: arm
+    scale: 1/35
+
+  - title: Shermans en el Pacífico - 2a parte
+    page: 6-13
+    type: how_pnt
+    author: Joaquín G. García
+    brand: ???
+    genre: arm
+    scale: 1/35
+
+  - title: Robocop
+    page: 14-19
+    type: how_bld / how_pnt
+    author: Sergio de Usera Mújica
+    brand: Argo Nauts
+    genre: fig / pha    
+    scale: 1/8
+
+  - title: Minotauro Coke
+    page: 20-22
+    type: how_bld / how_pnt
+    author: Juan Ignacio Riesco Gostanza
+    brand: Citadel
+    genre: pha / dio
+    scale: 25mm
+
+  - title: La primera guerra Carlista (ejército del centro)
+    page: 23-24
+    type: pro / inf
+    author: Antonio Treviño de Heredia / Emilio Arredondo
+
+  - title: Editorial
+    page: 25
+    type: edi
+  
+  - title: Novedades y noticias - Club de modelismo centuria, Exposición Hobbys Vicente (centro cultural Galileo), Concurso zona norte, Catálogo Azimut, Panzer File 1992, Fantasia catálogo FF
+    page: 26-27
+    type: new / adv
+
+  - title: Novedades y noticias - Warhammer 40000, Warhammer 40000 Compendium, Novedades Citadel, Miniaturas Castellano, Miniaturas F. M. Beneito
+    page: 28-29
+    type: new / adv
+
+  - title: On ne passe pas
+    page: 30-36
+    type: inf / pro
+    author: Jaume Cardona i Castells / Enric Ricart i Novell
+    genre: arm
+
+  - title: Juegos sin fronteras
+    page: 37
+    type: adv
+
+  - title: Publicidad - La Urraca, Casa Reyna, Hobbies diEmi, Hobby-Models, Juguetería Alien, Internacional F. Matas Salla, Modelismo & Radiocontrol, Speedy Pacheco, Bazar Lojume, Hobby-Kits Vicente
+    page: 38-39
+    type: adv
+
+  - title: Modelismo & Historia
+    page: 40
+    type: adv
+
+  - title: La primera guerra Carlista (ejército del centro) - 2a parte
+    page: 41-42
+    type: pro / inf
+    author: Antonio Treviño de Heredia / Emilio Arredondo
+
+  - title: Juguetes 113
+    page: 43
+    type: adv
+
+  - title: Detallado y pintura del Ala X
+    page: 44-49
+    type: how_bld / how_pnt
+    author: Julio C. Cabos / C. Salvador
+    brand: MPC/ERTL
+    genre: pha
+
+  - title: P-47 Con el morro ajedrezado
+    page: 50-58
+    type: how_pnt
+    author: Ricardo Suárez / Julio C. Cabos
+    brand: Otaki
+    genre: air
+
+  - title: Model Reyna s.a. Internacional
+    page: 59
+    type: adv
+    
+  - title: Reportaje gráfico - Príncipe de Asturias
+    page: 60-63
+    type: pro
+    author: Camil Busquet i Vilanova
+    
+  - title: Próximo número
+    page: 64
+    type: adv
+
+  - title: Suscripción Todo Modelismo
+    page: 65
+    type: adv
+
+  - title: Model Reyna
+    page: 66
+    type: adv
