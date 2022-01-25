@@ -1,0 +1,132 @@
+title: Todo Modelismo
+issue: 38
+country: es
+tags: common / scale_kits
+price: 700 ptas
+date: 1995-09
+language: es-es
+items:
+  - title: Portada
+    page: -1
+    type: cov
+
+  - title: Publicidad - Juguetes 113, Model Color
+    page: 0
+    type: adv
+
+  - title: Índice
+    page: 1
+    type: ind
+
+  - title: P-51 Mustang (Allison engine)
+    page: 2-9
+    type: how_bld / how_pnt
+    author: Juan M. Villalba Domínguez / Julio C. Cabos Gómez
+    scale: 1/48
+    brand: Accurate Miniatures
+    genre: air
+
+  - title: "Por Dios, por el rey... y por el oro - Conquistador español: siglo XVI"
+    page: 10-14
+    type: how_pnt
+    author: Luis Gómez Platón
+    scale: 120mm
+    brand: Amati
+    genre: fig
+
+  - title: Publicidad - De Tara S.L., Euro Modelismo
+    page: 15
+    type: adv
+
+  - title: Ferrari 340 MM
+    page: 16-17
+    type: how_bld / how_pnt
+    author: Guillermo Coll Llopis
+    scale: 1/43
+    brand: BBR
+    genre: civ
+
+  - title: Publicidad - Monográficos Todo Modelismo
+    page: 18
+    type: adv
+
+  - title: La división del Norte (1807-1808) - 2a parte
+    page: 19-20
+    type: pro / inf
+    author: Antonio Treviño de Heredia / Ángel L. González Romero
+
+  - title: Editorial
+    page: 21
+    type: edi
+
+  - title: Novedades y noticias - Hasegawa, Revell, Nimix, XXII Concurso de maquetas "Pĺásticos Santos"
+    page: 22    
+    type: adv / new
+
+  - title: Publicidad - Todo Modelismo, El Taller del Hobby, Lojume
+    page: 23
+    type: adv
+
+  - title: Novedades y noticias - XVI Concursoo de modelismo "Kayak" (L'Hospitalet)
+    page: 24
+    type: new
+
+  - title: Publicidad - Modelismo & Historia, Ricard s.a., Model-Kit, Hobby Centro
+    page: 25
+    type: adv
+
+  - title: Novedades y noticias - Asociaciones y clubs de modelismo en España
+    page: 26
+    type: inf
+
+  - title: Novedades y noticias - La Compañía, Ultimate Models, Aerógrafos Revell, Dekno
+    page: 27
+    type: new / adv
+
+  - title: Novedades y noticias - Avia-Press, Army House, V Concurso de modelismo "Hobby '82" (Vilafranca del Penedés), I Salón de miniaturismo militar, civil y naval de la coruña
+    page: 28
+    type: new / adv
+
+  - title: La división del Norte (1807-1808) - 2a parte (continuación)
+    page: 29-30
+    type: pro / inf
+    author: Antonio Treviño de Heredia / Ángel L. González Romero
+
+  - title: Taker
+    page: 31
+    type: adv
+
+  - title: M-10 Tank Destroyer - 2a parte
+    page: 32-41
+    type: how_bld
+    author: Carlos de Diego Vaquerizo / Rodrigo Hernández Cabos
+    scale: 1/35
+    brand: ???
+    genre: arm
+
+  - title: Concurso-exposición de maquetas "AMT" (Torrent)
+    page: 42
+    type: new
+
+  - title: Gun, el mundo del arma ligera
+    page: 43
+    type: adv
+
+  - title: M-10 Tank Destroyer
+    page: 44-47
+    type: pro / inf
+    author: Rodrigo Hernández Cabos    
+    genre: arm
+
+  - title: Próximo número
+    page: 48
+    type: adv
+
+  - title: Revell
+    page: 49
+    type: adv
+
+  - title: Todo Modelismo
+    page: 50
+    type: adv
+  
