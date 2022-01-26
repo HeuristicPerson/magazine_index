@@ -1,0 +1,130 @@
+title: Todo Modelismo
+issue: 39
+country: es
+tags: common / scale_kits
+price: 700 ptas
+date: 1995-10
+language: es-es
+items:
+  - title: Portada
+    page: -1
+    type: cov
+
+  - title: Revell - El Titanic se hundió
+    page: 0
+    type: adv
+
+  - title: Índice
+    page: 1
+    type: ind
+
+  - title: Heinkel Me 162 A-2 Salamander
+    page: 2-8
+    type: how_bld / how_pnt
+    author: Juan M. Villalba Domínguez / Julio C. Cabos Gómez
+    brand: Dragon
+    scale: 1/48
+    genre: air
+
+  - title: Taker
+    page: 9
+    type: adv
+
+  - title: M60A1 (RISE)
+    page: 10-16
+    type: how_bld / how_pnt
+    author: José A. Velázquez Encinas
+    brand: ESCI / Tamiya / Verlinden
+    scale: 1/35
+    genre: arm
+    
+  - title: Publicidad - Juguetes 113, Tapas Todo Modelismo
+    page: 17
+    type: adv
+
+  - title: Ford Escort RS Cosworth
+    page: 18-20
+    type: how_bld / how_pnt
+    author: J. Ignacio Hernández Díez
+    brand: Tamiya
+    scale: 1/24
+    genre: civ
+
+  - title: Editorial - Consideraciones
+    page: 21
+    type: edi
+
+  - title: Publicidad - Autobooks, Alvic Model, Lojume, Jordi Rubio
+    page: 22-23
+    type: adv
+
+  - title: Novedades y Noticias - Revell, Fujimi, Friulmodelismo, Preiser, Beret, Mac-Model, El Taller del Hobby, Nimix
+    page: 24-25
+    type: new / adv
+
+  - title: Novedades y Noticias - Asociación Cultural de Modelismo Estático, Verlinden Productions, Miniaturas 3D, Concurso de maquetas Akra Hobby, Hasegawa, Model-Kit, J. Villarroya, Ricard s.a., Hobby Centro
+    page: 26-27
+    type: new / adv
+
+  - title: Novedades y Noticias - Concurso de maquetas Juguetería Bamby, Tally Ho!, Eduard, Trilion, Miniaturas Andrea
+    page: 28
+    type: new / adv
+
+  - title: Guerrera Túrix
+    page: 29
+    type: how_pnt
+    author: ???
+    brand: Legio VII
+    genre: fig
+    scale: 80mm
+
+  - title: Paisajismo Modelístico - Vides y Emparrados
+    page: 30-33
+    type: how_bld / how_pnt
+    author: Rodrigo Hernández Cabos
+    genre: dio
+
+  - title: ABM-1B "GALOSH Mod.1"
+    page: 34-37
+    type: how_bld / how_pnt
+    author: Manuel Rodríguez Aguilar
+    brand: -scratch-
+    scale: 1/87
+    genre: arm
+
+  - title: Macbeth
+    page: 38-41
+    type: how_pnt
+    author: J. David Hernández Chacón
+    brand: Poste Militaire
+    scale: 70mm
+    genre: fig
+
+  - title: Bugatti 57 C Tank
+    page: 42
+    type: how_bld / how_pnt
+    author: Guillermo Coll Llopis
+    brand: Provence Moulage
+    scale: 1/43
+    genre: civ
+
+  - title: Suscripción Todo Modelismo
+    page: 43
+    type: adv
+
+  - title: Reportaje Gráfico - Stearman Modelo 75
+    page: 44-47
+    type: prf / inf
+    genre: air
+    
+  - title: Próximo número Noviembre 1995
+    page: 48 # The page appears as 64 on the paper 
+    type: adv 
+
+  - title: Monográficos Todo Modelismo
+    page: 49
+    type: adv
+
+  - title: Revell - Batman Forever
+    page: 50
+    type: adv
